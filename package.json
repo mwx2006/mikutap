@@ -1,0 +1,23 @@
+{
+  "name": "mikutap",
+  "version": "1.0.0",
+  "description": "mikutap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwx2006/mikutap.git"
+  },
+  "author": "MWX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwx2006/mikutap/issues"
+  },
+  "homepage": "https://github.com/mwx2006/mikutap#readme",
+  "devDependencies": {
+    "electron": "^8.0.0"
+  }
+}
